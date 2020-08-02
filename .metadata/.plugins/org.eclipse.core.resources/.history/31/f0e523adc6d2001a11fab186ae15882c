@@ -1,0 +1,12 @@
+
+
+Feature: Automation Practice web page functionality
+
+Scenario: Adding and Ordering product
+
+Given Open Chrome Browser
+And Open Automation Practice page
+When Sign Up
+And Add products to the cart
+When Proceed to checkout
+Then Order history and details

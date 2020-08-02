@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="195.095">
+<testcase classname="Automation Practice web page functionality" name="Adding and Ordering product" time="194.323">
+<system-out><![CDATA[Given Open Chrome Browser...................................................passed
+And Open Automation Practice page...........................................passed
+When Sign Up................................................................passed
+And Add products to the cart................................................passed
+And Proceed to checkout.....................................................passed
+Then Order history and details..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

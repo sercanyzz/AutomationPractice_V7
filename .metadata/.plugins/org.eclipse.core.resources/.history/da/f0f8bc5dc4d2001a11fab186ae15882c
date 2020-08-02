@@ -1,0 +1,15 @@
+
+
+Feature: feature to test google search functionality
+
+Scenario: Validate google search is working
+
+Given Open Chrome Browser
+And Open Automation Practice page
+When Sign Up
+And Adding products to the cart
+When Proceed to checkout
+And 
+
+
+Then user is navigated to search results 
